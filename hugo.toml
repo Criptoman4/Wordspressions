@@ -1,0 +1,10 @@
+
+baseURL = "https://wordspresions.netlify.app/"
+languageCode = "en-us"
+title = "Wordspresions"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "dark"
